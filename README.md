@@ -3,24 +3,18 @@
 Implementation to building a highly scalable data streaming pipeline in Python modified based on [here](https://github.com/iam-mhaseeb/Data-Streaming-Pipeline)
 
 
-Installation
+Requirements
 -----------
-1. Install the Redis and run it locally.
-2. Clone the repository.
-
-    ```
-    git clone https://github.com/iam-mhaseeb/Data-Streaming-Pipeline.git
-    ```
+1. Install the Redis.
+2. Install the the required libraries
     
-2. Install the requirements.
-
     ```
     pip install -r requirements.txt
     ```
 
-3. You are good to go!
 
-Quick start
+
+How to reun the code?
 -----------
 
 1. Start the producer `quotes_spider`:
