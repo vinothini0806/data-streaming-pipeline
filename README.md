@@ -14,7 +14,7 @@ Requirements
 
 
 
-How to reun the code?
+How to run the code?
 -----------
 
 1. Start the producer `quotes_spider`:
