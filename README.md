@@ -1,6 +1,6 @@
 # Data-Streaming-Pipeline
 
-Implementation to building a highly scalable data streaming pipeline in Python. Article is avialable [here](https://www.linkedin.com/pulse/building-highly-scalable-data-streaming-pipeline-python-haseeb/)
+Implementation to building a highly scalable data streaming pipeline in Python modified based on [here](https://github.com/iam-mhaseeb/Data-Streaming-Pipeline)
 
 
 Installation
@@ -36,11 +36,6 @@ Quick start
 3. See data flowing between pipeline as soon as data is generated from the producer.
 
 
-## Authors
 
-* **Muhammad Haseeb** - *Initial work* - [Muhammad Haseeb](https://github.com/iam-mhaseeb)
-
-## Licensing
-The project is [MIT Licenced](LICENSE).
 
 
